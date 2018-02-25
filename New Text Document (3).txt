@@ -1,0 +1,3 @@
+
+    <!-- <link rel="stylesheet" href="http://cdn.magnetix.dk/magnetix/survey/css/style_2018.css"> -->
+    <link rel="stylesheet" href="http://localhost.local/style_2018.css">
