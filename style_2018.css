@@ -6648,28 +6648,12 @@ h1, h2, legend {
       font-size: 1.2em;
       line-height: 1.2em;
       margin-bottom: 1em; }
-    .feedback .content .phone {
-      font-weight: bold;
-      color: #952122;
-      font-size: 1.4em;
-      display: block;
-      margin: 0.6em; }
-
-a {
-  color: #f04d22;
-  transition: all 0.2s ease;
-  text-decoration: underline;
-  transition: color 0.2s ease-in-out;
-  -webkit-transition: color 0.2s ease-in-out;
-  -ms-transition: color 0.2s ease-in-out;
-  -moz-transition: color 0.2s ease-in-out;
-  -o-transition: color 0.2s ease-in-out; }
-  a:visited {
-    color: #f04d22; }
-  .no-touch a:hover {
-    color: #dc0500; }
-  a:focus {
-    color: #dc0500; }
+  .feedback .content .phone {
+    font-weight: bold;
+    color: #952122;
+    font-size: 1.4em;
+    display: block;
+    margin: 0.6em; }
 
 .frame {
   max-width: 784px;
@@ -6771,10 +6755,10 @@ fieldset + fieldset {
     width: 100%;
     margin-top: -10px; }
   .numRating .ui-button.chosen .ui-button-text {
-    background-color: #f04d22;
+    background-color: #f74902;
     color: #fff; }
   .numRating .ui-button.chosen:hover .ui-button-text {
-    background-color: #f04d22;
+    background-color: #f74902;
     color: #fff; }
   @media only screen and (max-width: 768px) {
     .numRating .ui-button {
@@ -6784,7 +6768,6 @@ fieldset + fieldset {
 .radio-custom input, .radio-custom-stack input, .radio-custom label, .radio-custom-stack label {
   opacity: 0; }
 .radio-custom:hover .ui-button, .radio-custom-stack:hover .ui-button {
-  background: #c0c0c0;
   color: #fff; }
 .radio-custom .ui-button, .radio-custom-stack .ui-button {
   position: relative;
@@ -6800,7 +6783,7 @@ fieldset + fieldset {
           user-select: none;
   color: #333; }
   .radio-custom .ui-button.ui-state-active, .radio-custom-stack .ui-button.ui-state-active {
-    background: #f04d22;
+    background: #f74902;
     color: #fff; }
     .radio-custom .ui-button.ui-state-active:before, .radio-custom-stack .ui-button.ui-state-active:before {
       border-color: #5e0004;
